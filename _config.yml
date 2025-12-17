@@ -13,7 +13,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : Izzy Cowan
 description              : Izzy Cowan - Projects and CV 
-baseurl                  : "/Cornell-MAE-UG/fa25-portfolio-izzycowan" # Set this to your repo name 
+baseurl                  : "/fa25-portfolio-izzycowan/" # Set this to your repo name 
 
 # Theme and Style
 theme: jekyll-theme-minimal
