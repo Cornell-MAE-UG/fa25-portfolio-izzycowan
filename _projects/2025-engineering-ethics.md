@@ -40,6 +40,7 @@ From an outside perspective, it is easy to point fingers in a serious case such 
 The Boeing 737 MAX case reveals several truths about the current state of the engineering world, and several changes that need to be made to move forward in an ethical way. Companies and corporations need to start being questioned at the same level and viewed with the same skepticism by the public that individuals are. Even supposedly reputable organizations need to continue to be viewed with a lens of safe skepticism and be held to the utmost standards of safety. On the federal level, federal organizations need not maintain loyalty to corporations and instead must view them with a cooperative, but critical eye. Combined with public advocacy and the continued incorporation of ethical content into engineering curricula, these principles will lead us to a safer world with a healthier balance of organizational power.
 
 Citations 
+
 Boeing’s fatal flaw: A comprehensive report on the 737 MAX crisis [PDF]. (n.d.). Based on Boeing’s troubled 737 Max plane: Boeing’s fatal flaw – update full documentary (PBS Frontline)
 
 Federal Aviation Administration. (2020). Timeline of Activities Leading to the Certification of the Boeing 737 MAX 8 Aircraft and Actions Taken After the October 2018 Lion Air Accident (Report No. AV2020037). U.S. Department of Transportation Office of Inspector General.
